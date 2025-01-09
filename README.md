@@ -1,4 +1,4 @@
-# Desafio Técnico - Análise de dados utilizando pokeAPI
+# Análise de dados utilizando pokeAPI
 Este projeto contém extração, formatação e análise de dados utilizando a PokeAPI (dados de Pokémons).
 
 ## Tecnologias Utilizadas
